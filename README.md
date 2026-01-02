@@ -1,13 +1,10 @@
-# Predictive-Maintenance-System-Using-Condition-statements
-This project uses Sensor Data Logic to prevent catastrophic machine failures in manufacturing environments.
-♦️The Big Problem
-In factories, machines often run until they break. This Reactive Maintenance causes:
-High Costs: Replacing a broken spindle is 10x more expensive than a drill bit.
-Safety Risks: Uncontrolled mechanical failure can cause fires or injuries.
-Downtime: A stopped assembly line can lose a company $5,000 per hour.
-🔷 The Small Solution (If-Else Logic)
-Instead of complex AI that requires massive computing power, we use an Automated Decision Engine. By applying physics-based thresholds to real-time data, we flag machines before they fail.
-⚙️ Logic Features:
-Tool Wear Alert: Stops the machine if the tool has been in use for > 240 minutes.
-Thermal Protection: Monitors the "Heat Dissipation" delta between the process and ambient air.
-Strain Guard: Detects high torque levels that indicate a motor is struggling.
+Turning Sensor Data into Actionable Intelligence
+📋 Executive Summary
+This project implements a high-efficiency, logic-based decision system utilizing the AI4I 2020 Predictive Maintenance Dataset. It provides a lightweight framework to transition industrial operations from costly reactive models to cost-saving proactive maintenance strategies.
+🔴 The Industrial Problem: Reactive Failure
+Traditional "Run-to-Failure" protocols in global manufacturing create severe operational bottlenecks:
+Economic Impact: Catastrophic component failure (e.g., a primary spindle) is 10x more expensive to rectify than routine tool replacement.
+Operational Loss: Unscheduled downtime results in a median loss of $5,000 per hour in lost throughput.
+Occupational Safety: Unmonitored mechanical stress escalates the risk of thermal incidents (fires), debris projection, and operator injury.
+🟢 The Technical Solution: Logic-Driven Automation
+While complex Deep Learning models have their place, many industrial failures can be prevented with a High-Efficiency Decision Engine. This project utilizes optimized if-else branching logic to monitor physics-based thresholds in real-time sensor streams.
