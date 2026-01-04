@@ -62,3 +62,4 @@ CRITICAL: Tool Wear Limit          212
 WARNING: Overstrain Detected       141
 CHECK: Heat Dissipation             85
 
+
