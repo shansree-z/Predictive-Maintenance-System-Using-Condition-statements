@@ -20,7 +20,7 @@ Instead of resource-heavy AI, this project implements a **High-Efficiency Decisi
 ## ⚙️ Technical Optimization:
 * **Algorithm:** Conditional Logic Branching (`if-elif-else`).
 * **Efficiency:** Vectorized operations via Pandas for near-instant processing of 10k+ rows.
-* **Failure Modes:** Specifically detects **HDF** (Heat Dissipation), **OSF** (Overstrain), and **TWF** (Tool Wear) failures.
+* **Failure Modes:** Specifically detects **HDF** (Heat Dissipation), **OSF** (Overstrain), and **TWF** (Tool Wear) failures .
 
 ## 📂 Dataset
 This analysis utilizes the **AI4I 2020 Predictive Maintenance Dataset** (UC Irvine).
