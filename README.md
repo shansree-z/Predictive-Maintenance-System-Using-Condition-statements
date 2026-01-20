@@ -6,7 +6,7 @@
 ![Library](https://img.shields.io/badge/Library-Pandas-orange)
 ![Source](https://img.shields.io/badge/Source-Kaggle-blue)
 
-## 📌 Business Problem
+## 📌 Business Problem.
 In high-volume manufacturing environments, **"Unplanned Downtime"** is the single greatest driver of operational loss. Traditional maintenance follows a reactive "Run-to-Failure" model, which leads to:
 * **Catastrophic Costs:** Replacing a shattered spindle is **10x more expensive** than a routine tool change.
 * **Safety Risks:** Mechanical overstrain can lead to thermal runaway, fires, or operator injury.
